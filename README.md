@@ -1,7 +1,5 @@
 # MEV Shanghai
 
-[TOC]
-
 # About
 
 - MEV Shanghai is a MEV-focused event that combines a 7-day Research House with 2 days of side events during the [Shanghai International Blockchain Week](https://x.com/WXblockchain/status/1802607014595674207).
@@ -58,14 +56,13 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 # Sponsorship
 
-We haven’t finalized the sponsorship types yet, but please reach out to us for further discussion if you feel like interested. Contact: [Franci](https://t.me/FrancixDeng)
+We haven’t finalized the sponsorship types yet, but please reach out to us for further discussion if you feel like interested. 
 
 # Application Form
 
-Please fill out the forms and wait for our follow-up. We’ll reach out to have a brief chat with you.
+If you would like to apply as a housemate, event speaker, sponsor, or audience, please fill out the form and wait for us to get in touch.
 
-- Apply to be a housemate at the Research House: https://forms.gle/tkjdwDqN4Zsog9R36
-- Apply to be an event speaker, sponsor or audience: https://forms.gle/veNoGaLmtvNiQ6pe9
+https://tally.so/r/3NYY2B
 
 # Contributors
 
