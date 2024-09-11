@@ -1,5 +1,6 @@
 # MEV Shanghai
 
+<img width="993" alt="mev-shanghai" src="mev_shanghai.jpg">
 
 # About
 
