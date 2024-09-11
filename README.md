@@ -1,5 +1,6 @@
 # MEV Shanghai
 
+
 # About
 
 - MEV Shanghai is a MEV-focused event that combines a 7-day Research House with 2 days of side events during the [Shanghai International Blockchain Week](https://x.com/WXblockchain/status/1802607014595674207).
