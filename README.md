@@ -85,8 +85,9 @@ We hosted an in-person [EIP-4844 Economics session and workshop series](https:/
 <img width="993" alt="eip_4844" src="eip_4844.jpg">
 
 ## Shenzhen Research House
-[Shenzhen Research House](https://www.notion.so/Shenzhen-Researcher-House-ZKRollup-Economics-5a8cc68a38c64de1afe7ce07f52415d8?pvs=21), centered on the theme of ZKRollup Economics, was held from August 14th to 18th.
-We hosted a researchathon during the House. See the [recap](https://x.com/Franci_Deng/status/1829188872217174143) here.
+[Shenzhen Research House](https://www.notion.so/Shenzhen-Researcher-House-ZKRollup-Economics-5a8cc68a38c64de1afe7ce07f52415d8?pvs=21), centered on the theme of ZKRollup Economics, was held from August 14th to 18th. We also hosted a researchathon during the House. 
+
+This Research House was sponsored by EF [Ecosystem Support Program](https://x.com/EF_ESP). See the full [recap](https://x.com/Franci_Deng/status/1829188872217174143) here.
 
 <img width="993" alt="shenzhen_research_house" src="shenzhen_research_house.jpg">
 
