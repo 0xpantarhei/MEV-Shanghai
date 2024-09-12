@@ -9,7 +9,7 @@
 - The house will run from **October 10th to 17th.**
 - MEV Shanghai is a forked MEV-themed event inspired by [MEV Tokyo](https://github.com/titania-research-labs/mev-tokyo/tree/main?tab=readme-ov-file). We’re honored to have [Titania Research](https://titaniaresear.ch/) join us as our research support for this event.
 
-# Theme - what do we care? 🤔
+# Theme - what do we care about? 🤔
 
 We tend to focus on the centralization concerns under Ethereum PoS design and how to mitigate them. That is to explore some open problems around these topics and discuss potential solutions to toxic MEV and centralized staking.
 
