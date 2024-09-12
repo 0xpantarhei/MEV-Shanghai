@@ -95,3 +95,16 @@ We hosted a researchathon during the House. See the [recap](https://x.com/Franci
 # Contact
 
 Reach out to [Franci](https://t.me/FrancixDeng) if you have any questions about MEV Shanghai.
+
+# House Pictures
+The house has four private rooms and can accommodate up to 8 people. This means we’ll need to arrange accommodation for other housemates in nearby apartments. However, every housemate is welcome to stay at the house until bedtime for closer discussions.
+
+<img width="993" alt="house1" src="pictures/house1.jpg">
+<img width="993" alt="house2" src="pictures/house2.jpg">
+<img width="993" alt="house3" src="pictures/house3.jpg">
+<img width="993" alt="house4" src="pictures/house4.jpg">
+<img width="993" alt="house5" src="pictures/house5.jpg">
+<img width="993" alt="house6" src="pictures/house6.jpg">
+<img width="993" alt="house7" src="pictures/house7.jpg">
+<img width="993" alt="house8" src="pictures/house8.jpg">
+<img width="993" alt="house9" src="pictures/house9.jpg">
