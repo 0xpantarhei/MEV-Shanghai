@@ -80,11 +80,15 @@ Titania Research is a research organization that works on research and developme
 
 This includes research and development in software, supply chain and security, primarily based on findings in mechanism design, computer science and cryptography.
 
-# Past Research House
+# Past Activities
+## EIP-4844 Economics session and workshop series
+We hosted an in-person [EIP-4844 Economics session and workshop series](https://x.com/0xpantarhei/status/1787523344239403406) with FDU-VIS at Fudan University.
+<img width="993" alt="mev-shanghai" src="eip_4844.jpg">
 
+## Shenzhen Research House
 [Shenzhen Research House](https://www.notion.so/Shenzhen-Researcher-House-ZKRollup-Economics-5a8cc68a38c64de1afe7ce07f52415d8?pvs=21), centered on the theme of ZKRollup Economics, was held from August 14th to 18th.
-
 We hosted a researchathon during the House. See the [recap](https://x.com/Franci_Deng/status/1829188872217174143) here.
+<img width="993" alt="mev-shanghai" src="shenzhen_research_house.jpg">
 
 # Contact
 
