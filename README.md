@@ -23,13 +23,13 @@ Lastly, MEV value redistribution strategies include MEV share, order flow auctio
 
 In general, we will have some in-house talk sessions, discussions, and collaborative research during the Research House. We’re also going to organize a 2-day side event open to the public.
 
-## Research House (Oct 10th - 17th) 
+## Research House (Oct 10th - 17th) 🏠︎
 
 - The Research House aims to nature a space for protocol researchers, engineers, developers, and builders from mev ecosystem to have some deeper discussions and exchanges dedicated to advance potential collaborative research in the future.
 - Location: Pudong, Shanghai
 - Recruitment: 15 - 20 people
 
-## Side Event - MEV Shanghai (Oct 15th - 16th) 
+## Side Event - MEV Shanghai (Oct 15th - 16th) 🧠
 
 - MEV Shanghai aims to bring together experts and enthusiasts in the field and helps people better connect to foster collaboration in addressing open problems related to MEV and staking issues.
 - Venue: InnoSpace (pictures to be added)
