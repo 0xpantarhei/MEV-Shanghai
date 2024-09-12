@@ -101,7 +101,6 @@ The house has four private rooms and can accommodate up to 8 people. This means 
 
 <img width="993" alt="house1" src="pictures/house1.jpg">
 <img width="993" alt="house2" src="pictures/house2.jpg">
-<img width="993" alt="house3" src="pictures/house3.jpg">
 <img width="993" alt="house4" src="pictures/house4.jpg">
 <img width="993" alt="house5" src="pictures/house5.jpg">
 <img width="993" alt="house6" src="pictures/house6.jpg">
