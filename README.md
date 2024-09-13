@@ -11,7 +11,7 @@
 
 # Theme - what do we care about? 🤔
 
-We tend to focus on the centralization concerns under Ethereum PoS design and how to mitigate them. That is to explore some open problems around these topics and discuss potential solutions to toxic MEV and centralized staking.
+We are focusing on the centralization concerns under Ethereum PoS design and how to mitigate them. That is to explore some open problems around these topics and discuss potential solutions to toxic MEV and centralized staking.
 
 We may look into approach focused on trustless, decentralized roles in the supply chain: searcher, builder, relayer, proposer, and validator. For example, ePBS separates builder and proposer at the protocol level, removing the need for trust in relayers. And its variants like Slot-auction ePBS, Execution Auctions and Execution Tickets further decouple builder and proposer, capturing MEV at the protocol level. Solving centralized concerns in validator staking through Rainbow Staking, decentralizing proposer through MCP…
 
