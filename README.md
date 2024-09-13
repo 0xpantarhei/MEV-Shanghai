@@ -32,7 +32,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 ## Side Event - MEV Shanghai (Oct 15th - 16th) 🧠
 
 - MEV Shanghai aims to bring together experts and enthusiasts in the field and helps people better connect to foster collaboration in addressing open problems related to MEV and staking issues.
-- Venue: InnoSpace (pictures to be added)
+- Venue: TBA
 
 ### Oct 15th: MEV Supply Chain DAY
 
@@ -41,7 +41,8 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Decentralizing validator: rainbow staking, EIP-7716, …
   - Decentralizing proposer: MCP, …
 - Speakers
-  - Team from [BlockSec](https://x.com/BlockSecTeam)
+  - [BlockSec](https://x.com/BlockSecTeam)
+  - TBA
 
 ### Oct 16th: MEV Re-distribution DAY
 
