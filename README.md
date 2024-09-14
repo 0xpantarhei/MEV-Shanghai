@@ -35,6 +35,8 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 - Venue: YETEA, Shuangshi Hui L1 - 10, Dongchangzhi Road No.399 (International Cruise Terminal Subway Station Entrance & Exit 4), Hongkou, Shanghai, China
 
 <img width="993" alt="venue" src="pictures/venue.JPG">
+<img width="993" alt="side1" src="pictures/side1.jpg">
+<img width="993" alt="side2" src="pictures/side2.jpg">
 
 ### Oct 15th: MEV Supply Chain DAY
 
@@ -114,5 +116,3 @@ The house has four private rooms and can accommodate up to 8 people. This means 
 <img width="993" alt="house7" src="pictures/house7.jpg">
 <img width="993" alt="house8" src="pictures/house8.jpg">
 <img width="993" alt="house9" src="pictures/house9.jpg">
-<img width="993" alt="house10" src="pictures/house10.jpg">
-<img width="993" alt="house11" src="pictures/house11.jpg">
