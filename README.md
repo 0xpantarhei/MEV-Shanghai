@@ -43,6 +43,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Removing relayer and decoupling builder and proposer: ePBS and its variants like Slot-auction ePBS, Execution Auctions and Execution Tickets, …
   - Decentralizing validator: rainbow staking, EIP-7716, …
   - Decentralizing proposer: MCP, …
+ 
 - Speakers
   - [BlockSec](https://x.com/BlockSecTeam)
   - TBA
@@ -50,11 +51,8 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 ### Oct 16th: MEV Re-distribution DAY
 
 - Content related to MEV Re-distribution, such as
-
   - User/application capture: mev share, order flow auction and oev capture, …
-
   - LP capture: cf-amm, …
-
   - Protocol capture: mev burn, ….
 
 - Speakers
