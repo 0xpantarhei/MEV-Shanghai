@@ -34,7 +34,6 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 - MEV Shanghai aims to bring together experts and enthusiasts in the field and helps people better connect to foster collaboration in addressing open problems related to MEV and staking issues.
 - Venue: YETEA, Shuangshi Hui L1 - 10, Dongchangzhi Road No.399 (International Cruise Terminal Subway Station Entrance & Exit 4), Hongkou, Shanghai, China
 
-<img width="993" alt="venue2" src="pictures/venue2.jpg">
 <img width="993" alt="venue1" src="pictures/venue1.jpg">
 
 
