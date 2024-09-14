@@ -59,7 +59,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 # Sponsorship 💰
 
-We haven’t finalized the sponsorship types yet, but please reach out to us for further discussion if you feel like interested. 
+We haven’t finalized the sponsorship types yet, but please reach out to us for further discussion if you feel like interested.
 
 # Application Form 📝
 
@@ -80,13 +80,16 @@ Many thanks to [Titania Research](https://titaniaresear.ch/) for providing us wi
 Titania Research is a research organization that works on research and development on the problems of MEV in Ethereum. They aim to create solutions and contribute to Ethereum, rather than focusing solely on research. This includes research and development in software, supply chain and security, primarily based on findings in mechanism design, computer science and cryptography.
 
 # Past Activities 👏
+
 ## EIP-4844 Economics session and workshop series
+
 We hosted an in-person [EIP-4844 Economics session and workshop series](https://x.com/0xpantarhei/status/1787523344239403406) with FDU-VIS at Fudan University.
 
 <img width="993" alt="eip_4844" src="eip_4844.jpg">
 
 ## Shenzhen Research House
-[Shenzhen Research House](https://www.notion.so/Shenzhen-Researcher-House-ZKRollup-Economics-5a8cc68a38c64de1afe7ce07f52415d8?pvs=21), centered on the theme of ZKRollup Economics, was held from August 14th to 18th. We also hosted a researchathon during the House. 
+
+[Shenzhen Research House](https://www.notion.so/Shenzhen-Researcher-House-ZKRollup-Economics-5a8cc68a38c64de1afe7ce07f52415d8?pvs=21), centered on the theme of ZKRollup Economics, was held from August 14th to 18th. We also hosted a researchathon during the House.
 
 This Research House was sponsored by EF [Ecosystem Support Program](https://x.com/EF_ESP). See the full [recap](https://x.com/Franci_Deng/status/1829188872217174143) here.
 
@@ -97,6 +100,7 @@ This Research House was sponsored by EF [Ecosystem Support Program](https://x.co
 Reach out to [Franci](https://t.me/FrancixDeng) if you have any questions about MEV Shanghai.
 
 # House Pictures 🏡
+
 The house has four private rooms and can accommodate up to 8 people. This means we’ll need to arrange accommodation for other housemates in nearby apartments. However, every housemate is welcome to stay at the house until bedtime for closer discussions.
 
 <img width="993" alt="house1" src="pictures/house1.jpg">
@@ -108,3 +112,5 @@ The house has four private rooms and can accommodate up to 8 people. This means 
 <img width="993" alt="house7" src="pictures/house7.jpg">
 <img width="993" alt="house8" src="pictures/house8.jpg">
 <img width="993" alt="house9" src="pictures/house9.jpg">
+<img width="993" alt="house10" src="pictures/house10.jpg">
+<img width="993" alt="house11" src="pictures/house11.jpg">
