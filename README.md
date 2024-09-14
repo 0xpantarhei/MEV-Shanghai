@@ -63,7 +63,17 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 # Sponsorship 💰
 
-We haven’t finalized the sponsorship types yet, but please reach out to us for further discussion if you feel like interested.
+We are seeking sponsors to support MEV Shanghai, with two sponsorship tiers available:
+
+- **Supporter Sponsor – $1,500 USD**
+    - **Branding Benefits**: Logo on event website and social media, swag/flyer distribution, onsite booth.
+    - **Event Benefits**: 15-minute lightning talk.
+    - **House Benefits**: Slot at the house apartment, stay at the House until bedtime.
+
+- **Beacon Sponsor – $2,500 USD**
+    - **Branding Benefits**: Logo on event website and social media, swag/flyer distribution, onsite booth.
+    - **Event Benefits**: 30-minute keynote.
+    - **House Benefits**: Full stay at the House.
 
 # Application Form 📝
 
