@@ -37,7 +37,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 <img width="993" alt="venue1" src="pictures/venue1.jpg">
 
 
-### Oct 15th: MEV Supply Chain DAY
+### Oct 15th: MEV Supply Chain Day
 
 - Content related to MEV Supply Chain such as
   - Removing relayer and decoupling builder and proposer: ePBS and its variants like Slot-auction ePBS, Execution Auctions and Execution Tickets, …
@@ -48,7 +48,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - [BlockSec](https://x.com/BlockSecTeam)
   - TBA
 
-### Oct 16th: MEV Re-distribution DAY
+### Oct 16th: MEV Re-distribution Day
 
 - Content related to MEV Re-distribution, such as
   - User/application capture: mev share, order flow auction and oev capture, …
