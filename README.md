@@ -56,17 +56,18 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Protocol capture: mev burn, ….
 
 - Speakers
+  - [Cecilia](https://x.com/ceciliaz030) from [Taiko](https://x.com/taikoxyz)
   - TBA
 
 # Sponsorship 💰
 
 We are seeking sponsors to support MEV Shanghai, with two sponsorship tiers available:
 
-- **Supporter Sponsor – $1,500 USD**
+- **Supporter Sponsor – 2,500 USD**
     - **Branding Benefits**: Logo on event website and social media, swag/flyer distribution, onsite booth.
     - **House Benefits**: Slot at the house apartment, stay at the House until bedtime.
 
-- **Beacon Sponsor – $2,500 USD**
+- **Beacon Sponsor – 3,500 USD**
     - **Branding Benefits**: Logo on event website and social media, swag/flyer distribution, onsite booth.
     - **Event Benefits**: 30-minute keynote speech.
     - **House Benefits**: Full stay at the House.
