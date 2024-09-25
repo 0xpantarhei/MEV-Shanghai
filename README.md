@@ -25,7 +25,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 ## Research House (Oct 10th - 17th) 🏠︎
 
-- The Research House aims to nature a space for protocol researchers, engineers, developers, and builders from mev ecosystem to have some deeper discussions and exchanges dedicated to advance potential collaborative research in the future.
+- The Research House aims to nature a space for protocol researchers, engineers, developers, and builders from mev ecosystem to have some deeper discussions and exchanges dedicated to advance potential collaborative research and developments in the future.
 - Location: Pudong, Shanghai
 - Recruitment: 15 - 20 people
 
@@ -45,7 +45,8 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Decentralizing proposer: MCP, …
  
 - Speakers
-  - [BlockSec](https://x.com/BlockSecTeam)
+  - [Yajin (Andy) Zhou](https://x.com/yajinzhou), [BlockSec](https://x.com/BlockSecTeam) & Zhejiang University
+  - [Lin Oshitani](https://x.com/linoscope), Protocol Researcher of [Nethermind](https://x.com/NethermindEth).
   - TBA
 
 ### Oct 16th: MEV Re-distribution Day
@@ -56,7 +57,8 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Protocol capture: mev burn, ….
 
 - Speakers
-  - [Cecilia](https://x.com/ceciliaz030) from [Taiko](https://x.com/taikoxyz)
+  - [Cecilia Zhang](https://x.com/ceciliaz030), Engineer of [Taiko Gwyneth](https://x.com/gwyneth_taiko).
+  - [Dorothy](https://x.com/Dorothy_defi), Chief Growth Officer of [AltLayer](https://x.com/alt_layer).
   - TBA
 
 # Sponsorship 💰
