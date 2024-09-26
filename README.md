@@ -45,8 +45,9 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Decentralizing proposer: MCP, …
  
 - Speakers
-  - [Yajin (Andy) Zhou](https://x.com/yajinzhou), [BlockSec](https://x.com/BlockSecTeam) & Zhejiang University
+  - [Yajin (Andy) Zhou](https://x.com/yajinzhou), [BlockSec](https://x.com/BlockSecTeam) & Zhejiang University.
   - [Lin Oshitani](https://x.com/linoscope), Protocol Researcher of [Nethermind](https://x.com/NethermindEth).
+  - [Samuel Chong](https://x.com/stakesaurus/status/1838420734340927635), [Lido](https://x.com/LidoFinance).
   - TBA
 
 ### Oct 16th: MEV Re-distribution Day
