@@ -39,6 +39,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 ### Oct 15th: MEV Supply Chain Day
 
+- Please [register](https://lu.ma/rky1juu9) to receive the event location.
 - Content related to MEV Supply Chain such as
   - Removing relayer and decoupling builder and proposer: ePBS and its variants like Slot-auction ePBS, Execution Auctions and Execution Tickets, …
   - Decentralizing validator: rainbow staking, EIP-7716, …
@@ -52,6 +53,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 ### Oct 16th: MEV Re-distribution Day
 
+- Please [register](https://lu.ma/2dlb3piz) to receive the event location.
 - Content related to MEV Re-distribution, such as
   - User/application capture: mev share, order flow auction and oev capture, …
   - LP capture: cf-amm, …
@@ -60,6 +62,7 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 - Speakers
   - [Cecilia Zhang](https://x.com/ceciliaz030), Engineer of [Taiko Gwyneth](https://x.com/gwyneth_taiko).
   - [Dorothy](https://x.com/Dorothy_defi), Chief Growth Officer of [AltLayer](https://x.com/alt_layer).
+  - [Semantic Layer](https://x.com/SemanticLayer)
   - [aPriori](https://x.com/aprMEV)
   - [Bancor](https://x.com/Bancor)
   - TBA
