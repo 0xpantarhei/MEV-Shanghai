@@ -62,9 +62,9 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 - Speakers
   - [Cecilia Zhang](https://x.com/ceciliaz030), Engineer of [Taiko Gwyneth](https://x.com/gwyneth_taiko).
   - [Dorothy](https://x.com/Dorothy_defi), Chief Growth Officer of [AltLayer](https://x.com/alt_layer).
+  - [Dr. Mark B. Richardson](https://x.com/MBRichardson87), Project Lead of [Bancor](https://x.com/Bancor)
   - [Semantic Layer](https://x.com/SemanticLayer)
   - [aPriori](https://x.com/aprMEV)
-  - [Bancor](https://x.com/Bancor)
   - TBA
 
 # Sponsorship 💰
