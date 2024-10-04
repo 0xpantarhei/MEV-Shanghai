@@ -69,7 +69,9 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 
 # Sponsorship 💰
 
-MEV Shanghai is now sponsored by [ESP](https://x.com/EF_ESP) under Ethereum Foundation.
+MEV Shanghai is now sponsored by [ESP](https://x.com/EF_ESP) under Ethereum Foundation and [GCC](https://x.com/GCCofCommons).
+
+<img width="993" alt="sponsorship" src="pictures/sponsorship.png">
 
 We are seeking sponsors to support MEV Shanghai, with two sponsorship tiers available:
 
