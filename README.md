@@ -34,8 +34,6 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 - MEV Shanghai aims to bring together experts and enthusiasts in the field and helps people better connect to foster collaboration in addressing open problems related to MEV and staking issues.
 - Venue: Hongkou, Shanghai, China
 
-<img width="993" alt="venue1" src="pictures/venue1.jpg">
-
 
 ### Oct 15th: MEV Supply Chain Day
 
@@ -45,11 +43,19 @@ In general, we will have some in-house talk sessions, discussions, and collabora
   - Decentralizing validator: rainbow staking, EIP-7716, …
   - Decentralizing proposer: MCP, …
  
-- Speakers
-  - [Lin Oshitani](https://x.com/linoscope), Protocol Researcher of [Nethermind](https://x.com/NethermindEth).
-  - [Yajin (Andy) Zhou](https://x.com/yajinzhou), [BlockSec](https://x.com/BlockSecTeam) & Zhejiang University.
-  - [Stakesaurus](https://x.com/stakesaurus/status/1838420734340927635), [Lido](https://x.com/LidoFinance) Community Lifeguard
-  - TBA
+#### Agenda
+
+  🕑 13:30 | Registration & Opening
+
+  🕑 14:00 | [Chen Xuan](https://x.com/ChenXuan_C), Ph.D.@SDS Fudan University, Internship@[Nethermind](https://x.com/NethermindEth) Research: ***MEV Research: Literature Review***
+
+  🕑 15:00 | [Yajin (Andy) Zhou](https://x.com/yajinzhou), [BlockSec](https://x.com/BlockSecTeam) & Zhejiang University: ***Revolutionizing L2 Chains: Building Intrinsic Security from Sequencers***
+
+  🕑 16:00 | [Lin Oshitani](https://x.com/linoscope), Protocol Researcher of [Nethermind](https://x.com/NethermindEth): ***Based Preconfirmations with Multi-round MEV-Boost***
+
+  🕑 17:00 | [Stakesaurus](https://x.com/stakesaurus), [Lido](https://x.com/LidoFinance) Community Lifeguard: ***Decentralising the Lido Node Operator Set***
+
+<img width="993" alt="15th" src="pictures/15th.png">
 
 ### Oct 16th: MEV Re-distribution Day
 
