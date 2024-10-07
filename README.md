@@ -38,14 +38,8 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 ### Oct 15th: MEV Supply Chain Day
 
 - Please [register](https://lu.ma/rky1juu9) to receive the event location.
-- Content related to MEV Supply Chain such as
-  - Removing relayer and decoupling builder and proposer: ePBS and its variants like Slot-auction ePBS, Execution Auctions and Execution Tickets, …
-  - Decentralizing validator: rainbow staking, EIP-7716, …
-  - Decentralizing proposer: MCP, …
- 
-#### Agenda
 
-  🕑 13:30 | Registration & Opening
+#### Agenda
 
   🕑 14:00 | [Chen Xuan](https://x.com/ChenXuan_C), Ph.D.@SDS Fudan University, Internship@[Nethermind](https://x.com/NethermindEth) Research: ***MEV Research: Literature Review***
 
@@ -60,18 +54,26 @@ In general, we will have some in-house talk sessions, discussions, and collabora
 ### Oct 16th: MEV Re-distribution Day
 
 - Please [register](https://lu.ma/2dlb3piz) to receive the event location.
-- Content related to MEV Re-distribution, such as
-  - User/application capture: mev share, order flow auction and oev capture, …
-  - LP capture: cf-amm, …
-  - Protocol capture: mev burn, ….
 
-- Speakers
-  - [Cecilia Zhang](https://x.com/ceciliaz030), Engineer of [Taiko Gwyneth](https://x.com/gwyneth_taiko).
-  - [Dorothy](https://x.com/Dorothy_defi), Chief Growth Officer of [AltLayer](https://x.com/alt_layer).
-  - [Dr. Mark B. Richardson](https://x.com/MBRichardson87), Project Lead of [Bancor](https://x.com/Bancor)
-  - [Semantic Layer](https://x.com/SemanticLayer)
-  - [aPriori](https://x.com/aprMEV)
-  - TBA
+#### Agenda
+
+🕑 14:00 | lurenbian, Operator of [GCCofCommons](https://x.com/GCCofCommons): ***The Public Nature of MEV Solutions***
+
+🕑 15:00 | Online Panel
+
+[Cecilia Zhang](https://x.com/ceciliaz030), Engineer of [Taiko Gwyneth](https://x.com/gwyneth_taiko)
+
+[Dex Chen](https://x.com/dex_chen_V), Co-founder of [Semantic Layer](https://x.com/SemanticLayer)
+
+[Dorothy](https://x.com/Dorothy_defi), Chief Growth Officer, [AltLayer](https://x.com/alt_layer)
+
+🕑 16:00 | [Dr. Mark B. Richardson](https://x.com/MBRichardson87), Project Lead of [Bancor](https://x.com/Bancor): ***DEX* *Arbitrage: The Most Misunderstood Concept in MEV***
+
+🕑 17:00 | [J](https://x.com/cryptofu54), BD of [aPriori](https://x.com/aprmev): ***MEV Landscape in the Parallel Execution Era***
+
+<img width="993" alt="16th panel" src="pictures/16th panel.png">
+
+<img width="993" alt="16th speaker" src="pictures/16th speaker.png">
 
 # Sponsorship 💰
 
@@ -79,7 +81,6 @@ MEV Shanghai is now sponsored by [ESP](https://x.com/EF_ESP) under Ethereum Foun
 
 <img width="993" alt="sponsorship" src="pictures/sponsorship.png">
 
-We are seeking sponsors to support MEV Shanghai, with two sponsorship tiers available:
 
 - **Supporter Sponsor – 2,500 USD**
     - **Branding Benefits**: Logo on event website and social media, swag/flyer distribution, onsite booth.
@@ -107,6 +108,9 @@ MEV Shanghai is hosted by [Panta Rhei](https://www.notion.so/Panta-Rhei-Homepage
 Many thanks to [Titania Research](https://titaniaresear.ch/) for providing us with valuable suggestions on MEV Shanghai.
 
 Titania Research is a research organization that works on research and development on the problems of MEV in Ethereum. They aim to create solutions and contribute to Ethereum, rather than focusing solely on research. This includes research and development in software, supply chain and security, primarily based on findings in mechanism design, computer science and cryptography.
+
+### Community Support
+​[Fudan Blockchain association](https://x.com/FudanBlockchain) is one of the largest student organizations at Fudan University, with an alumni network of over 500 members.
 
 # Past Activities 👏
 
